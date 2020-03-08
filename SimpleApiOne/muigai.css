@@ -1,0 +1,50 @@
+h1{
+  text-align: center;
+  color: rgb(225, 114, 67);
+  margin-top: 30px;
+  font-family: Papyrus, fantasy;
+  font-weight: bolder;
+  font-size: 120px;
+  margin-bottom: 10px;
+
+}
+span>span{
+  color: lightblue;
+
+}
+span p {
+  text-align: center;
+}
+span{
+  font-size: 40px;
+  text-align: center;
+}
+
+p{
+  font-size: 20px;
+  /* text-align: center; */
+}
+body{
+  background-image: url(vote.jpg);
+  background-size: cover;
+  font-style: Papyrus, fantasy;
+  color: white;
+  background-position: top;
+}
+
+#makeAPICall{
+  background-color: white;
+  color: white;
+  border-radius: none;
+  color: rgb(225, 114, 67);
+  margin-bottom: 20px;
+}
+
+#name, #suite, #street, #zipcode, #phone, #email{
+  color: lightblue;
+}
+#name{
+  font-weight: bolder;
+  color: rgb(225, 114, 67);
+  font-size: 20px;
+}
